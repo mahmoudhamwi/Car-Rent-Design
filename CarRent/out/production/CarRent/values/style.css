@@ -1,0 +1,37 @@
+.background-image{
+    -fx-background-image: url("file:/C:/Users/Lenovo/IdeaProjects/CarRent/src/img/background.jpg");
+    -fx-background-repeat: stretch;
+}
+
+.top-bar{
+    -fx-background-color: rgba(73, 16, 69,0.8);
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.pink-button{
+    -fx-background-color: #FF1145;
+    -fx-background-radius: 100;
+}
+
+.purple-button{
+    -fx-background-color: #491045;
+    -fx-background-radius: 100;
+}
+
+.transparent-button{
+    -fx-background-color: rgba(0,0,0,0);
+    -fx-border-color: #FFFFFF;
+    -fx-border-radius: 100;
+}
+
+.shadow{
+    -fx-effect: dropShadow(one-pass-box,rgba(0,0,0,0.3), 10.0 , 0.0 , 0.0, 10.0);
+}
+
+.offer-background{
+    -fx-background-color: rgba(73, 16, 69,0.8);
+    -fx-background-radius: 30;
+}
