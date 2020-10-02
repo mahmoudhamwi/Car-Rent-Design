@@ -2,4 +2,4 @@
 Watch tutorial step by step on youtube: https://youtu.be/S9oU12Pl6RU
 
 # Screenshot 
-[GitHub](https://github.com/mahmoudhamwi/Car-Rent-Design/blob/main/CarRent/Car%20rent.png)
+![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Car-Rent-Design/main/CarRent/Car%20rent.png)
